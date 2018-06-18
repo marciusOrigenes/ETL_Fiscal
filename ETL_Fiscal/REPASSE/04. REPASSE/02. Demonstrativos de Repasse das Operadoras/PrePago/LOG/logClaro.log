@@ -1,0 +1,13 @@
+17:24:14 Thread (1) Connecting to :marcius.origenes@bi.cpk2nlg9rts4.sa-east-1.rds.amazonaws.com (hugo). 
+17:24:14 Thread (20) Import Started [14/06/2018 17:24:14]
+17:24:14 Thread (20) Processing "DR PRE Consolidado 2018 (Prototipo).xlsx" into "hugo.stg_pre_claro"
+17:24:15 Thread (20) Importing 1 out of 1 files
+17:24:15 Thread (20) Reading from file DR PRE Consolidado 2018 (Prototipo).xlsx
+17:24:15 Thread (20) Import block size optimization is enabled
+17:24:15 Thread (20) Change Schema to hugo
+17:24:15 Thread (20) Inserting row 388 into table stg_pre_claro
+17:24:15 Thread (20) 388 rows from file DR PRE Consolidado 2018 (Prototipo).xlsx were processed.
+17:24:15 Thread (20) A total of 388 out of 388 rows were imported to table stg_pre_claro.
+
+17:24:15 Thread (20) Import Finished [14/06/2018 17:24:15]
+17:24:15 Thread (20) Import time: 00:00:01.0639020 

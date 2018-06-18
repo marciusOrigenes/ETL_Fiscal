@@ -1,0 +1,479 @@
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 14/05/2018 15:55:26===DR INTELIG PRE 18.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 1 -- 14/05/2018 15:55:35===DR INTELIG PRE 18.04.xlsx
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 13:34:18===DR INTELIG PRE 17.06.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 4 -- 16/05/2018 13:34:27===DR INTELIG PRE 17.06.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 16/05/2018 13:34:33===DR INTELIG PRE 17.06.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 16/05/2018 13:34:40===DR INTELIG PRE 17.06.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 13:34:48===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 13:34:50===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 1 -- 16/05/2018 13:34:54===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 13:37:40===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 13:37:46===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 1 -- 16/05/2018 13:37:54===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 13:41:20===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 13:41:23===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 1 -- 16/05/2018 13:41:24===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 13:42:24===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 13:42:25===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 1 -- 16/05/2018 13:42:26===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 13:44:38===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 13:44:39===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 1 -- 16/05/2018 13:44:39===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 13:45:55===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 13:45:57===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 1 -- 16/05/2018 13:45:57===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 13:47:01===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 13:47:02===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 1 -- 16/05/2018 13:47:03===DR INTELIG PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 16/05/2018 13:47:03===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 2 -- 16/05/2018 13:47:06===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 16/05/2018 13:47:08===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 2 -- 16/05/2018 13:47:10===DR INTELIG PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 2 -- 16/05/2018 13:47:11===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 3 -- 16/05/2018 13:47:15===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 3 -- 16/05/2018 13:47:16===DR INTELIG PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 3 -- 16/05/2018 13:47:17===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 4 -- 16/05/2018 13:47:20===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 4 -- 16/05/2018 13:47:22===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 4 -- 16/05/2018 13:47:23===DR INTELIG PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 4 -- 16/05/2018 13:47:23===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 16/05/2018 13:47:27===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 5 -- 16/05/2018 13:47:29===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 5 -- 16/05/2018 13:47:29===DR INTELIG PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 5 -- 16/05/2018 13:47:30===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 6 -- 16/05/2018 13:47:33===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 6 -- 16/05/2018 13:47:37===DR INTELIG PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 6 -- 16/05/2018 13:47:38===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 7 -- 16/05/2018 13:47:41===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 7 -- 16/05/2018 13:47:42===DR INTELIG PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 7 -- 16/05/2018 13:47:42===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 16/05/2018 13:47:45===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 8 -- 16/05/2018 13:47:47===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 8 -- 16/05/2018 13:47:47===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 16/05/2018 13:47:50===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 9 -- 16/05/2018 13:47:51===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 9 -- 16/05/2018 13:47:51===DR INTELIG PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 9 -- 16/05/2018 13:47:51===DR INTELIG PRE 17.07.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 16/05/2018 13:48:06===DR INTELIG PRE 17.08.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 16/05/2018 13:48:10===DR INTELIG PRE 17.08.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 16/05/2018 13:48:16===DR INTELIG PRE 17.08.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 16/05/2018 13:48:19===DR INTELIG PRE 17.08.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 2 -- 16/05/2018 13:48:33===DR INTELIG PRE 17.09.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 13:50:30===DR INTELIG PRE 17.10.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 2 -- 16/05/2018 13:50:45===DR INTELIG PRE 17.11.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 4 -- 16/05/2018 13:50:53===DR INTELIG PRE 17.11.xlsx
+
+2 [INTELIG PRE] ERRO--> Verificar ordem das colunas -- 16/05/2018 14:11:50===DR INTELIG PRE 17.01.xlsx
+
+1 [INTELIG PRE] ERRO--> Verificar ordem das colunas -- 16/05/2018 14:13:34===DR INTELIG PRE 17.01.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 14:14:54===DR INTELIG PRE 17.01.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 14:14:56===DR INTELIG PRE 17.01.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 14:16:33===DR INTELIG PRE 17.01.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 14:16:34===DR INTELIG PRE 17.01.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 14:17:58===DR INTELIG PRE 17.01.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 14:17:58===DR INTELIG PRE 17.01.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 14:19:00===DR INTELIG PRE 17.01.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 14:19:01===DR INTELIG PRE 17.01.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 14:19:49===DR INTELIG PRE 17.01.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 14:19:50===DR INTELIG PRE 17.01.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 14:27:45===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 14:27:47===DR INTELIG PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 16/05/2018 14:27:48===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 3 -- 16/05/2018 14:27:51===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 3 -- 16/05/2018 14:27:53===DR INTELIG PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 3 -- 16/05/2018 14:27:53===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 4 -- 16/05/2018 14:27:56===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 4 -- 16/05/2018 14:27:56===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 4 -- 16/05/2018 14:27:57===DR INTELIG PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 4 -- 16/05/2018 14:27:57===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 16/05/2018 14:28:00===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 5 -- 16/05/2018 14:28:02===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 5 -- 16/05/2018 14:28:02===DR INTELIG PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 5 -- 16/05/2018 14:28:03===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 16/05/2018 14:28:06===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 6 -- 16/05/2018 14:28:07===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 6 -- 16/05/2018 14:28:07===DR INTELIG PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 6 -- 16/05/2018 14:28:07===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 16/05/2018 14:28:11===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 7 -- 16/05/2018 14:28:12===DR INTELIG PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 7 -- 16/05/2018 14:28:13===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 16/05/2018 14:28:16===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 8 -- 16/05/2018 14:28:16===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 10 -- 16/05/2018 14:28:18===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 11 -- 16/05/2018 14:28:21===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 11 -- 16/05/2018 14:28:22===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 11 -- 16/05/2018 14:28:23===DR INTELIG PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 11 -- 16/05/2018 14:28:23===DR INTELIG PRE 17.02.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 14:30:57===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 14:30:58===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 14:30:58===DR INTELIG PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 16/05/2018 14:30:59===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 2 -- 16/05/2018 14:31:01===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 16/05/2018 14:31:02===DR INTELIG PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 2 -- 16/05/2018 14:31:03===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 3 -- 16/05/2018 14:31:05===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 3 -- 16/05/2018 14:31:06===DR INTELIG PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 3 -- 16/05/2018 14:31:07===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 4 -- 16/05/2018 14:31:09===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 4 -- 16/05/2018 14:31:10===DR INTELIG PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 4 -- 16/05/2018 14:31:10===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 16/05/2018 14:31:12===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 5 -- 16/05/2018 14:31:14===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 5 -- 16/05/2018 14:31:15===DR INTELIG PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 5 -- 16/05/2018 14:31:15===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 16/05/2018 14:31:17===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 6 -- 16/05/2018 14:31:18===DR INTELIG PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 6 -- 16/05/2018 14:31:19===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 16/05/2018 14:31:21===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 7 -- 16/05/2018 14:31:22===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 16/05/2018 14:31:25===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 9 -- 16/05/2018 14:31:26===DR INTELIG PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 9 -- 16/05/2018 14:31:27===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 10 -- 16/05/2018 14:31:29===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 10 -- 16/05/2018 14:31:30===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 10 -- 16/05/2018 14:31:30===DR INTELIG PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 10 -- 16/05/2018 14:31:31===DR INTELIG PRE 17.03.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 14:37:52===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 14:37:54===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 14:37:55===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 16/05/2018 14:37:55===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 15:08:32===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 15:08:33===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 15:08:34===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 16/05/2018 15:08:36===DR INTELIG PRE 17.04.xlsx
+
+1 [INTELIG PRE] ERRO--> Verificar ordem das colunas -- 16/05/2018 15:24:39===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 15:24:47===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 15:24:54===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 1 -- 16/05/2018 15:24:56===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 15:32:42===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 15:32:43===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 15:32:44===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 16/05/2018 15:32:44===DR INTELIG PRE 17.04.xlsx
+
+1 [INTELIG PRE] ERRO--> Verificar ordem das colunas -- 16/05/2018 15:32:47===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 15:34:25===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 15:34:26===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 15:34:27===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 16/05/2018 15:34:27===DR INTELIG PRE 17.04.xlsx
+
+1 [INTELIG PRE] ERRO--> Verificar ordem das colunas -- 16/05/2018 15:34:28===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 15:37:23===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 15:37:27===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 15:37:29===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 16/05/2018 15:37:30===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 15:39:31===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 15:39:33===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 15:39:34===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 16/05/2018 15:39:34===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 15:40:54===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 15:40:57===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 15:40:57===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 16/05/2018 15:40:58===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 15:42:32===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 15:42:33===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 15:42:34===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 16/05/2018 15:42:35===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 2 -- 16/05/2018 15:42:37===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 16/05/2018 15:42:39===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 2 -- 16/05/2018 15:42:39===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 3 -- 16/05/2018 15:42:42===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 3 -- 16/05/2018 15:42:43===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 4 -- 16/05/2018 15:42:45===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 4 -- 16/05/2018 15:42:46===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 4 -- 16/05/2018 15:42:47===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 16/05/2018 15:42:50===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 5 -- 16/05/2018 15:42:52===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 5 -- 16/05/2018 15:42:52===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 16/05/2018 15:42:55===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 6 -- 16/05/2018 15:42:57===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 7 -- 16/05/2018 15:43:00===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 16/05/2018 15:43:03===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 8 -- 16/05/2018 15:43:04===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 8 -- 16/05/2018 15:43:05===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 8 -- 16/05/2018 15:43:05===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 16/05/2018 15:43:08===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 9 -- 16/05/2018 15:43:09===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 9 -- 16/05/2018 15:43:10===DR INTELIG PRE 17.04.xlsx
+
+1 [INTELIG PRE] ERRO--> Verificar ordem das colunas -- 16/05/2018 15:48:26===DR INTELIG PRE 17.04.xlsx
+
+2 [INTELIG PRE] ERRO--> Verificar ordem das colunas -- 16/05/2018 15:49:30===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 15:49:58===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 15:50:00===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 16/05/2018 15:50:00===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 16/05/2018 15:50:01===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 2 -- 16/05/2018 15:50:04===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 16/05/2018 15:50:04===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 2 -- 16/05/2018 15:50:04===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 3 -- 16/05/2018 15:50:12===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 3 -- 16/05/2018 15:50:13===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 4 -- 16/05/2018 15:50:15===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 4 -- 16/05/2018 15:50:16===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 4 -- 16/05/2018 15:50:16===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 16/05/2018 15:50:21===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 5 -- 16/05/2018 15:50:22===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 5 -- 16/05/2018 15:50:22===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 16/05/2018 15:50:24===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 6 -- 16/05/2018 15:50:25===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 7 -- 16/05/2018 15:50:26===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 16/05/2018 15:50:29===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 8 -- 16/05/2018 15:50:29===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 8 -- 16/05/2018 15:50:29===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 8 -- 16/05/2018 15:50:29===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 16/05/2018 15:50:31===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 9 -- 16/05/2018 15:50:32===DR INTELIG PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 9 -- 16/05/2018 15:50:32===DR INTELIG PRE 17.04.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 16/05/2018 16:14:23===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 16/05/2018 16:14:24===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 1 -- 16/05/2018 16:14:25===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 3 -- 16/05/2018 16:14:28===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 3 -- 16/05/2018 16:14:31===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 4 -- 16/05/2018 16:14:34===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 5 -- 16/05/2018 16:14:36===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 5 -- 16/05/2018 16:14:37===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 16/05/2018 16:14:40===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 7 -- 16/05/2018 16:14:42===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 7 -- 16/05/2018 16:14:42===DR INTELIG PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 7 -- 16/05/2018 16:14:43===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 16/05/2018 16:14:45===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 8 -- 16/05/2018 16:14:46===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 8 -- 16/05/2018 16:14:46===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 8 -- 16/05/2018 16:14:46===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 16/05/2018 16:14:48===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 10 -- 16/05/2018 16:14:51===DR INTELIG PRE 17.05.xlsx
+
+[INTELIG PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 11 -- 16/05/2018 16:14:54===DR INTELIG PRE 17.05.xlsx
+
+2 - [INTELIG] ERRO--> Verificar ordem das colunas -- 24/05/2018 15:21:04===DR INTELIG STFC 18.04.xlsx
+
+1 - [INTELIG] ERRO--> Verificar ordem das colunas -- 04/06/2018 14:45:52===Relatório CAMBRIDGE STFC_Abril 18.xlsx
+

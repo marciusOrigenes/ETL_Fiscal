@@ -1,0 +1,84 @@
+[OI FIXO] ERRO--> Verificar se a data de Períoro de Arrecadação -- 23/05/2018 13:54:35===DR OI STFC 18.04.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:30:17===DR OI STFC 17.01.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:30:20===DR OI STFC 17.02.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:30:22===DR OI STFC 17.03.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:30:24===DR OI STFC 17.04.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 14 não bate  -- 13/06/2018 13:30:34===DR OI STFC 17.05.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:33:59===DR OI STFC 17.01.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:34:01===DR OI STFC 17.02.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:34:02===DR OI STFC 17.03.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:34:03===DR OI STFC 17.04.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:37:52===DR OI STFC 17.01.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:37:54===DR OI STFC 17.02.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:37:55===DR OI STFC 17.03.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:37:56===DR OI STFC 17.04.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 14 não bate  -- 13/06/2018 13:38:06===DR OI STFC 17.05.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 19 não bate  -- 13/06/2018 13:38:13===DR OI STFC 17.05.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 19 não bate  -- 13/06/2018 13:39:41===DR OI STFC 17.09.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 7 não bate  -- 13/06/2018 13:39:48===DR OI STFC 17.10.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 14 não bate  -- 13/06/2018 13:39:58===DR OI STFC 17.10.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 7 não bate  -- 13/06/2018 13:40:33===DR OI STFC 17.12.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 8 não bate  -- 13/06/2018 13:40:35===DR OI STFC 17.12.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 10 não bate  -- 13/06/2018 13:40:37===DR OI STFC 17.12.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 11 não bate  -- 13/06/2018 13:40:39===DR OI STFC 17.12.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 13 não bate  -- 13/06/2018 13:40:41===DR OI STFC 17.12.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 14 não bate  -- 13/06/2018 13:40:43===DR OI STFC 17.12.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 16 não bate  -- 13/06/2018 13:40:46===DR OI STFC 17.12.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 17 não bate  -- 13/06/2018 13:40:47===DR OI STFC 17.12.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 22 não bate  -- 13/06/2018 13:40:54===DR OI STFC 17.12.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 7 não bate  -- 13/06/2018 13:40:57===DR OI STFC 18.01.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 8 não bate  -- 13/06/2018 13:40:58===DR OI STFC 18.01.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 17 não bate  -- 13/06/2018 13:41:10===DR OI STFC 18.01.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:41:27===DR OI STFC R2 17.01.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:41:36===DR OI STFC R2 17.02.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:41:38===DR OI STFC R2 17.03.xlsx
+
+[OI FIXO] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:41:40===DR OI STFC R2 17.04.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 12 não bate  -- 13/06/2018 13:49:19===DR OI STFC 17.01.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 19 não bate  -- 13/06/2018 13:49:29===DR OI STFC 17.01.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 11 não bate  -- 13/06/2018 13:49:58===DR OI STFC 17.03.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 9 não bate  -- 13/06/2018 14:01:59===DR OI STFC R2 17.11.xlsx
+
+[OI FIXO] ERRO--> valor  ARRECADADO + ARRECADO CT VENCIDA > 90 DIAS +  CONTESTADO + COMISSÃO diferente de REPASSE da linha 10 não bate  -- 13/06/2018 14:02:15===DR OI STFC R2 17.12.xlsx
+
+[OI FIXO] ERRO--> Verificar se a data de Períoro de Arrecadação -- 15/06/2018 13:50:48===Demonstrativo Pós-Pago OI FIXA x CAMBRIDGE_201805.xlsx
+
+[OI FIXO] ERRO--> Verificar se a data de Períoro de Arrecadação -- 15/06/2018 13:58:57===Demonstrativo Pós-Pago OI FIXA x CAMBRIDGE_201805.xlsx
+

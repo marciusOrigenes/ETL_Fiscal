@@ -1,0 +1,64 @@
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 23/05/2018 14:52:09===DR OI SMP 18.04.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 25/05/2018 17:16:08===DR CLARO STFC 18.04.TXT
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 25/05/2018 17:16:34===DR CLARO STFC 18.04.TXT
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 25/05/2018 17:18:10===DR CLARO STFC 18.04.TXT
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 04/06/2018 13:49:49===Demonstrativo Pós-Pago Oi Móvel SA x Cambridge_201804.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 04/06/2018 14:09:23===Demonstrativo Pós-Pago Oi Móvel SA x Cambridge_201804.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 11:55:58===DR OI SMP 17.05.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 11:56:09===DR OI SMP 17.06.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 11:56:12===DR OI SMP 17.07.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 11:56:14===DR OI SMP 17.08.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 11:59:46===DR OI SMP 17.05.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 11:59:54===DR OI SMP 17.06.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 12:03:17===DR OI SMP 17.05.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 12:03:33===DR OI SMP 17.06.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 12:03:36===DR OI SMP 17.07.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 12:03:40===DR OI SMP 17.08.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 12:03:42===DR OI SMP 17.09.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 12:03:45===DR OI SMP 17.10.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 12:03:47===DR OI SMP 17.11.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 12:03:49===DR OI SMP 17.12.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 12:03:51===DR OI SMP 18.01.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 12:03:53===DR OI SMP 18.02.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 12:03:54===DR OI SMP 18.03.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:17:03===DR OI SMP 17.05.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:17:07===DR OI SMP 17.06.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 13/06/2018 13:24:12===DR OI SMP 17.06.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 15/06/2018 11:55:59===Demonstrativo Pós-Pago Oi Móvel SA x Cambridge_201805.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 15/06/2018 11:57:03===Demonstrativo Pós-Pago Oi Móvel SA x Cambridge_201805.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 15/06/2018 11:59:20===Demonstrativo Pós-Pago Oi Móvel SA x Cambridge_201805.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 15/06/2018 13:51:32===Demonstrativo Pós-Pago OI SA x CAMBRIDGE_201805.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 15/06/2018 13:58:59===Demonstrativo Pós-Pago OI SA x CAMBRIDGE_201805.xlsx
+
+[OI MOVEL] ERRO--> Verificar ordem das colunas -- 15/06/2018 14:00:05===Demonstrativo Pós-Pago OI SA x CAMBRIDGE_201805.xlsx
+

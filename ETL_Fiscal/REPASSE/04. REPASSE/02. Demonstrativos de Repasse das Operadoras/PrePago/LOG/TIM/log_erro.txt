@@ -1,0 +1,2010 @@
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 07/06/2018 16:36:35===DR TIM PRE 17.01.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 07/06/2018 16:36:45===DR TIM PRE 17.02.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 07/06/2018 16:36:49===DR TIM PRE 17.03.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 07/06/2018 16:37:18===DR TIM PRE 17.04.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 07/06/2018 16:37:20===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 11 -- 07/06/2018 16:37:37===DR TIM PRE 17.09.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 25 -- 07/06/2018 16:37:55===DR TIM PRE 17.09.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 2 -- 07/06/2018 16:38:06===DR TIM PRE 17.10.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 15 -- 07/06/2018 16:38:27===DR TIM PRE 17.10.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 23 -- 07/06/2018 16:38:37===DR TIM PRE 17.10.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 24 -- 07/06/2018 16:38:39===DR TIM PRE 17.10.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 28 -- 07/06/2018 16:38:44===DR TIM PRE 17.10.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 3 -- 07/06/2018 16:38:55===DR TIM PRE 17.11.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 24 -- 07/06/2018 16:39:26===DR TIM PRE 17.11.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 26 -- 07/06/2018 16:39:30===DR TIM PRE 17.11.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 31 -- 07/06/2018 16:39:34===DR TIM PRE 17.11.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 3 -- 07/06/2018 16:39:44===DR TIM PRE 17.12.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 07/06/2018 16:39:50===DR TIM PRE 17.12.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 13 -- 07/06/2018 16:40:01===DR TIM PRE 17.12.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 17 -- 07/06/2018 16:40:04===DR TIM PRE 17.12.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 31 -- 07/06/2018 16:40:24===DR TIM PRE 17.12.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 32 -- 07/06/2018 16:40:25===DR TIM PRE 17.12.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 07/06/2018 16:40:31===DR TIM PRE 18.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 07/06/2018 16:40:43===DR TIM PRE 18.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 07/06/2018 16:40:46===DR TIM PRE 18.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 07/06/2018 16:41:18===DR TIM PRE 18.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 07/06/2018 16:41:20===DR TIM PRE 18.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 11 -- 07/06/2018 16:41:23===DR TIM PRE 18.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 12 -- 07/06/2018 16:41:25===DR TIM PRE 18.04.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 07/06/2018 16:53:02===DR TIM PRE 17.01.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 07/06/2018 16:53:04===DR TIM PRE 17.02.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 07/06/2018 16:53:06===DR TIM PRE 17.03.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 07/06/2018 16:53:09===DR TIM PRE 17.04.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 07/06/2018 16:53:11===DR TIM PRE 17.05.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 09/06/2018 10:45:40===DR TIM PRE 17.01.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 09/06/2018 10:45:56===DR TIM PRE 17.02.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 09/06/2018 10:45:58===DR TIM PRE 17.03.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 09/06/2018 10:45:59===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 09/06/2018 10:46:01===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 09/06/2018 10:46:01===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 1 -- 09/06/2018 10:46:01===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 09/06/2018 10:46:01===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 1 -- 09/06/2018 10:46:01===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 09/06/2018 10:46:01===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 09/06/2018 10:46:03===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 2 -- 09/06/2018 10:46:03===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 2 -- 09/06/2018 10:46:03===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 4 -- 09/06/2018 10:46:05===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 4 -- 09/06/2018 10:46:05===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 4 -- 09/06/2018 10:46:05===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 09/06/2018 10:46:06===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 09/06/2018 10:46:08===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 7 -- 09/06/2018 10:46:08===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 7 -- 09/06/2018 10:46:08===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 12 -- 09/06/2018 10:46:12===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 14 -- 09/06/2018 10:46:14===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 14 -- 09/06/2018 10:46:14===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 14 -- 09/06/2018 10:46:14===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 14 -- 09/06/2018 10:46:14===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 14 -- 09/06/2018 10:46:14===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 14 -- 09/06/2018 10:46:14===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 16 -- 09/06/2018 10:46:16===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 16 -- 09/06/2018 10:46:16===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 16 -- 09/06/2018 10:46:16===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 16 -- 09/06/2018 10:46:16===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 19 -- 09/06/2018 10:46:18===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 19 -- 09/06/2018 10:46:18===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 19 -- 09/06/2018 10:46:18===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 19 -- 09/06/2018 10:46:18===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 21 -- 09/06/2018 10:46:20===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 21 -- 09/06/2018 10:46:20===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 21 -- 09/06/2018 10:46:20===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 23 -- 09/06/2018 10:46:21===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 23 -- 09/06/2018 10:46:21===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 23 -- 09/06/2018 10:46:21===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 23 -- 09/06/2018 10:46:21===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 26 -- 09/06/2018 10:46:23===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 26 -- 09/06/2018 10:46:23===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 26 -- 09/06/2018 10:46:23===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 26 -- 09/06/2018 10:46:23===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 28 -- 09/06/2018 10:46:25===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 28 -- 09/06/2018 10:46:25===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 30 -- 09/06/2018 10:46:27===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 30 -- 09/06/2018 10:46:27===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 32 -- 09/06/2018 10:46:29===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 32 -- 09/06/2018 10:46:29===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 32 -- 09/06/2018 10:46:29===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 32 -- 09/06/2018 10:46:29===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 34 -- 09/06/2018 10:46:31===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 34 -- 09/06/2018 10:46:31===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 36 -- 09/06/2018 10:46:33===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 36 -- 09/06/2018 10:46:33===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 36 -- 09/06/2018 10:46:33===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 39 -- 09/06/2018 10:46:35===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 39 -- 09/06/2018 10:46:35===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 42 -- 09/06/2018 10:46:37===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 42 -- 09/06/2018 10:46:37===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 42 -- 09/06/2018 10:46:37===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 44 -- 09/06/2018 10:46:39===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 44 -- 09/06/2018 10:46:39===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 44 -- 09/06/2018 10:46:39===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 44 -- 09/06/2018 10:46:39===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 46 -- 09/06/2018 10:46:41===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 46 -- 09/06/2018 10:46:41===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 47 -- 09/06/2018 10:46:42===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 51 -- 09/06/2018 10:46:44===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 51 -- 09/06/2018 10:46:44===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 51 -- 09/06/2018 10:46:44===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 51 -- 09/06/2018 10:46:44===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 51 -- 09/06/2018 10:46:44===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 51 -- 09/06/2018 10:46:44===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 54 -- 09/06/2018 10:46:46===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 56 -- 09/06/2018 10:46:48===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 56 -- 09/06/2018 10:46:48===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 56 -- 09/06/2018 10:46:48===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 56 -- 09/06/2018 10:46:48===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 58 -- 09/06/2018 10:46:50===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 58 -- 09/06/2018 10:46:50===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 58 -- 09/06/2018 10:46:50===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 58 -- 09/06/2018 10:46:50===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 09/06/2018 10:54:58===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 09/06/2018 10:54:58===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 09/06/2018 10:54:58===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 09/06/2018 10:54:58===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 2 -- 09/06/2018 10:55:00===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 09/06/2018 10:55:00===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 2 -- 09/06/2018 10:55:00===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 2 -- 09/06/2018 10:55:00===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 3 -- 09/06/2018 10:55:02===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 3 -- 09/06/2018 10:55:02===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 3 -- 09/06/2018 10:55:02===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 3 -- 09/06/2018 10:55:02===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 4 -- 09/06/2018 10:55:04===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 4 -- 09/06/2018 10:55:04===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 4 -- 09/06/2018 10:55:04===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 4 -- 09/06/2018 10:55:04===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 09/06/2018 10:55:06===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 6 -- 09/06/2018 10:55:06===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 6 -- 09/06/2018 10:55:06===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 6 -- 09/06/2018 10:55:06===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 09/06/2018 10:55:07===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 8 -- 09/06/2018 10:55:07===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 8 -- 09/06/2018 10:55:07===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 09/06/2018 10:55:09===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 9 -- 09/06/2018 10:55:09===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 9 -- 09/06/2018 10:55:09===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 9 -- 09/06/2018 10:55:09===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 10 -- 09/06/2018 10:55:11===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 10 -- 09/06/2018 10:55:11===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 10 -- 09/06/2018 10:55:11===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 10 -- 09/06/2018 10:55:11===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 11 -- 09/06/2018 10:55:13===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 11 -- 09/06/2018 10:55:13===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 13 -- 09/06/2018 10:55:15===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 13 -- 09/06/2018 10:55:15===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 13 -- 09/06/2018 10:55:15===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 13 -- 09/06/2018 10:55:15===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 16 -- 09/06/2018 10:55:17===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 16 -- 09/06/2018 10:55:17===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 19 -- 09/06/2018 10:55:19===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 19 -- 09/06/2018 10:55:19===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 21 -- 09/06/2018 10:55:21===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 21 -- 09/06/2018 10:55:21===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 21 -- 09/06/2018 10:55:21===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 21 -- 09/06/2018 10:55:21===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 25 -- 09/06/2018 10:55:23===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 25 -- 09/06/2018 10:55:23===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 25 -- 09/06/2018 10:55:23===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 25 -- 09/06/2018 10:55:23===DR TIM PRE 17.01.xlsx
+
+1 [TIM PRE] ERRO--> Verificar ordem das colunas -- 09/06/2018 11:05:05===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 09/06/2018 11:05:11===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 09/06/2018 11:05:11===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 09/06/2018 11:05:11===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 09/06/2018 11:05:11===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 09/06/2018 11:05:12===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 2 -- 09/06/2018 11:05:12===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 2 -- 09/06/2018 11:05:12===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 09/06/2018 11:05:14===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 5 -- 09/06/2018 11:05:14===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 5 -- 09/06/2018 11:05:14===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 5 -- 09/06/2018 11:05:14===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 09/06/2018 11:05:16===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 7 -- 09/06/2018 11:05:16===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 7 -- 09/06/2018 11:05:16===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 7 -- 09/06/2018 11:05:16===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 09/06/2018 11:05:18===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 9 -- 09/06/2018 11:05:18===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 9 -- 09/06/2018 11:05:18===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 9 -- 09/06/2018 11:05:18===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 12 -- 09/06/2018 11:05:20===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 12 -- 09/06/2018 11:05:20===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 12 -- 09/06/2018 11:05:20===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 15 -- 09/06/2018 11:05:22===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 15 -- 09/06/2018 11:05:22===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 15 -- 09/06/2018 11:05:22===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 15 -- 09/06/2018 11:05:22===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 18 -- 09/06/2018 11:05:24===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 18 -- 09/06/2018 11:05:24===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 18 -- 09/06/2018 11:05:24===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 18 -- 09/06/2018 11:05:24===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 20 -- 09/06/2018 11:05:26===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 20 -- 09/06/2018 11:05:26===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 20 -- 09/06/2018 11:05:26===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 20 -- 09/06/2018 11:05:26===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 23 -- 09/06/2018 11:05:28===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 23 -- 09/06/2018 11:05:28===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 23 -- 09/06/2018 11:05:28===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 25 -- 09/06/2018 11:05:30===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 25 -- 09/06/2018 11:05:30===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 25 -- 09/06/2018 11:05:30===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 25 -- 09/06/2018 11:05:30===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 27 -- 09/06/2018 11:05:31===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 27 -- 09/06/2018 11:05:31===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 27 -- 09/06/2018 11:05:31===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 27 -- 09/06/2018 11:05:31===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 30 -- 09/06/2018 11:05:33===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 30 -- 09/06/2018 11:05:33===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 30 -- 09/06/2018 11:05:33===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 30 -- 09/06/2018 11:05:33===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 32 -- 09/06/2018 11:05:35===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 32 -- 09/06/2018 11:05:35===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 32 -- 09/06/2018 11:05:35===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 32 -- 09/06/2018 11:05:35===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 35 -- 09/06/2018 11:05:37===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 35 -- 09/06/2018 11:05:37===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 35 -- 09/06/2018 11:05:37===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 35 -- 09/06/2018 11:05:37===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 37 -- 09/06/2018 11:05:39===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 37 -- 09/06/2018 11:05:39===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 37 -- 09/06/2018 11:05:39===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 37 -- 09/06/2018 11:05:39===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 40 -- 09/06/2018 11:05:41===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 40 -- 09/06/2018 11:05:41===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 40 -- 09/06/2018 11:05:41===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 40 -- 09/06/2018 11:05:41===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 43 -- 09/06/2018 11:05:43===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 43 -- 09/06/2018 11:05:43===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 43 -- 09/06/2018 11:05:43===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 46 -- 09/06/2018 11:05:45===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 49 -- 09/06/2018 11:05:47===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 49 -- 09/06/2018 11:05:47===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 49 -- 09/06/2018 11:05:47===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 49 -- 09/06/2018 11:05:47===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 51 -- 09/06/2018 11:05:48===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 51 -- 09/06/2018 11:05:48===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 51 -- 09/06/2018 11:05:48===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 51 -- 09/06/2018 11:05:48===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 52 -- 09/06/2018 11:05:50===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 52 -- 09/06/2018 11:05:50===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 52 -- 09/06/2018 11:05:50===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 52 -- 09/06/2018 11:05:50===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 54 -- 09/06/2018 11:05:52===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 54 -- 09/06/2018 11:05:52===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 60 -- 09/06/2018 11:05:54===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 60 -- 09/06/2018 11:05:54===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 60 -- 09/06/2018 11:05:54===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 60 -- 09/06/2018 11:05:54===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 64 -- 09/06/2018 11:05:56===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 64 -- 09/06/2018 11:05:56===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 64 -- 09/06/2018 11:05:56===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 64 -- 09/06/2018 11:05:56===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 66 -- 09/06/2018 11:05:58===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 66 -- 09/06/2018 11:05:58===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 66 -- 09/06/2018 11:05:58===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 66 -- 09/06/2018 11:05:58===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 69 -- 09/06/2018 11:06:00===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 69 -- 09/06/2018 11:06:00===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 09/06/2018 11:06:03===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 09/06/2018 11:06:03===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 09/06/2018 11:06:03===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 3 -- 09/06/2018 11:06:05===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 3 -- 09/06/2018 11:06:05===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 3 -- 09/06/2018 11:06:05===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 3 -- 09/06/2018 11:06:05===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 09/06/2018 11:06:07===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 6 -- 09/06/2018 11:06:07===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 6 -- 09/06/2018 11:06:07===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 6 -- 09/06/2018 11:06:07===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 09/06/2018 11:06:09===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 9 -- 09/06/2018 11:06:09===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 9 -- 09/06/2018 11:06:09===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 9 -- 09/06/2018 11:06:09===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 11 -- 09/06/2018 11:06:11===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 11 -- 09/06/2018 11:06:11===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 11 -- 09/06/2018 11:06:11===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 11 -- 09/06/2018 11:06:11===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 14 -- 09/06/2018 11:06:12===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 14 -- 09/06/2018 11:06:12===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 14 -- 09/06/2018 11:06:12===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 14 -- 09/06/2018 11:06:12===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 17 -- 09/06/2018 11:06:14===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 17 -- 09/06/2018 11:06:14===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 17 -- 09/06/2018 11:06:14===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 17 -- 09/06/2018 11:06:14===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 20 -- 09/06/2018 11:06:16===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 20 -- 09/06/2018 11:06:16===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 20 -- 09/06/2018 11:06:16===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 20 -- 09/06/2018 11:06:16===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 23 -- 09/06/2018 11:06:18===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 23 -- 09/06/2018 11:06:18===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 23 -- 09/06/2018 11:06:18===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 23 -- 09/06/2018 11:06:18===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 26 -- 09/06/2018 11:06:20===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 26 -- 09/06/2018 11:06:20===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 26 -- 09/06/2018 11:06:20===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 26 -- 09/06/2018 11:06:20===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 29 -- 09/06/2018 11:06:22===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 29 -- 09/06/2018 11:06:22===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 29 -- 09/06/2018 11:06:22===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 29 -- 09/06/2018 11:06:22===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 32 -- 09/06/2018 11:06:24===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 32 -- 09/06/2018 11:06:24===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 32 -- 09/06/2018 11:06:24===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 32 -- 09/06/2018 11:06:24===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 35 -- 09/06/2018 11:06:26===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 35 -- 09/06/2018 11:06:26===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 35 -- 09/06/2018 11:06:26===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 35 -- 09/06/2018 11:06:26===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 38 -- 09/06/2018 11:06:28===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 38 -- 09/06/2018 11:06:28===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 38 -- 09/06/2018 11:06:28===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 38 -- 09/06/2018 11:06:28===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 41 -- 09/06/2018 11:06:30===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 41 -- 09/06/2018 11:06:30===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 41 -- 09/06/2018 11:06:30===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 41 -- 09/06/2018 11:06:30===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 43 -- 09/06/2018 11:06:31===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 43 -- 09/06/2018 11:06:31===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 43 -- 09/06/2018 11:06:31===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 43 -- 09/06/2018 11:06:31===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 46 -- 09/06/2018 11:06:33===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 46 -- 09/06/2018 11:06:33===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 46 -- 09/06/2018 11:06:33===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 46 -- 09/06/2018 11:06:33===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 48 -- 09/06/2018 11:06:35===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 48 -- 09/06/2018 11:06:35===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 48 -- 09/06/2018 11:06:35===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 48 -- 09/06/2018 11:06:35===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 52 -- 09/06/2018 11:06:37===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 52 -- 09/06/2018 11:06:37===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 55 -- 09/06/2018 11:06:39===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 55 -- 09/06/2018 11:06:39===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 55 -- 09/06/2018 11:06:39===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 55 -- 09/06/2018 11:06:39===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 58 -- 09/06/2018 11:06:41===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 58 -- 09/06/2018 11:06:41===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 58 -- 09/06/2018 11:06:41===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 58 -- 09/06/2018 11:06:41===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 61 -- 09/06/2018 11:06:43===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 61 -- 09/06/2018 11:06:43===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 61 -- 09/06/2018 11:06:43===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 61 -- 09/06/2018 11:06:43===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 63 -- 09/06/2018 11:06:45===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 63 -- 09/06/2018 11:06:45===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 68 -- 09/06/2018 11:06:47===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 68 -- 09/06/2018 11:06:47===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 68 -- 09/06/2018 11:06:47===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 68 -- 09/06/2018 11:06:47===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 72 -- 09/06/2018 11:06:49===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 72 -- 09/06/2018 11:06:49===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 72 -- 09/06/2018 11:06:49===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 72 -- 09/06/2018 11:06:49===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 74 -- 09/06/2018 11:06:51===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 74 -- 09/06/2018 11:06:51===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 74 -- 09/06/2018 11:06:51===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 77 -- 09/06/2018 11:06:53===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 77 -- 09/06/2018 11:06:53===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 09/06/2018 11:06:56===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 09/06/2018 11:06:56===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 09/06/2018 11:06:56===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 09/06/2018 11:06:56===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 09/06/2018 11:06:58===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 2 -- 09/06/2018 11:06:58===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 2 -- 09/06/2018 11:06:58===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 4 -- 09/06/2018 11:07:00===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 4 -- 09/06/2018 11:07:00===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 4 -- 09/06/2018 11:07:00===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 09/06/2018 11:07:01===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 7 -- 09/06/2018 11:07:01===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 7 -- 09/06/2018 11:07:01===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 7 -- 09/06/2018 11:07:01===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 09/06/2018 11:07:03===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 9 -- 09/06/2018 11:07:03===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 9 -- 09/06/2018 11:07:03===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 9 -- 09/06/2018 11:07:03===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 12 -- 09/06/2018 11:07:05===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 12 -- 09/06/2018 11:07:05===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 12 -- 09/06/2018 11:07:05===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 15 -- 09/06/2018 11:07:07===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 15 -- 09/06/2018 11:07:07===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 15 -- 09/06/2018 11:07:07===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 18 -- 09/06/2018 11:07:09===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 18 -- 09/06/2018 11:07:09===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 18 -- 09/06/2018 11:07:09===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 18 -- 09/06/2018 11:07:09===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 19 -- 09/06/2018 11:07:11===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 19 -- 09/06/2018 11:07:11===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 19 -- 09/06/2018 11:07:11===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 19 -- 09/06/2018 11:07:11===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 22 -- 09/06/2018 11:07:13===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 22 -- 09/06/2018 11:07:13===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 22 -- 09/06/2018 11:07:13===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 22 -- 09/06/2018 11:07:13===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 25 -- 09/06/2018 11:07:15===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 25 -- 09/06/2018 11:07:15===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 25 -- 09/06/2018 11:07:15===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 25 -- 09/06/2018 11:07:15===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 28 -- 09/06/2018 11:07:17===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 28 -- 09/06/2018 11:07:17===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 28 -- 09/06/2018 11:07:17===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 28 -- 09/06/2018 11:07:17===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 31 -- 09/06/2018 11:07:19===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 31 -- 09/06/2018 11:07:19===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 31 -- 09/06/2018 11:07:19===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 31 -- 09/06/2018 11:07:19===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 34 -- 09/06/2018 11:07:21===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 34 -- 09/06/2018 11:07:21===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 34 -- 09/06/2018 11:07:21===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 37 -- 09/06/2018 11:07:23===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 37 -- 09/06/2018 11:07:23===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 37 -- 09/06/2018 11:07:23===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 40 -- 09/06/2018 11:07:25===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 40 -- 09/06/2018 11:07:25===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 40 -- 09/06/2018 11:07:25===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 43 -- 09/06/2018 11:07:27===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 43 -- 09/06/2018 11:07:27===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 43 -- 09/06/2018 11:07:27===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 43 -- 09/06/2018 11:07:27===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 46 -- 09/06/2018 11:07:29===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 46 -- 09/06/2018 11:07:29===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 46 -- 09/06/2018 11:07:29===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 46 -- 09/06/2018 11:07:29===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 50 -- 09/06/2018 11:07:31===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 50 -- 09/06/2018 11:07:31===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 53 -- 09/06/2018 11:07:33===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 53 -- 09/06/2018 11:07:33===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 53 -- 09/06/2018 11:07:33===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 53 -- 09/06/2018 11:07:33===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 56 -- 09/06/2018 11:07:35===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 56 -- 09/06/2018 11:07:35===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 56 -- 09/06/2018 11:07:35===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 58 -- 09/06/2018 11:07:36===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 58 -- 09/06/2018 11:07:36===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 58 -- 09/06/2018 11:07:36===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 60 -- 09/06/2018 11:07:38===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 67 -- 09/06/2018 11:07:40===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 67 -- 09/06/2018 11:07:40===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 67 -- 09/06/2018 11:07:40===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 67 -- 09/06/2018 11:07:40===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 71 -- 09/06/2018 11:07:42===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 71 -- 09/06/2018 11:07:42===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 71 -- 09/06/2018 11:07:42===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 73 -- 09/06/2018 11:07:44===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 73 -- 09/06/2018 11:07:44===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 73 -- 09/06/2018 11:07:44===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 73 -- 09/06/2018 11:07:44===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 76 -- 09/06/2018 11:07:46===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 76 -- 09/06/2018 11:07:46===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 09/06/2018 11:34:22===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 09/06/2018 11:34:22===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 09/06/2018 11:34:22===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 09/06/2018 11:34:22===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 2 -- 09/06/2018 11:34:24===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 09/06/2018 11:34:24===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 2 -- 09/06/2018 11:34:24===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 2 -- 09/06/2018 11:34:24===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 3 -- 09/06/2018 11:34:26===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 3 -- 09/06/2018 11:34:26===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 3 -- 09/06/2018 11:34:26===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 3 -- 09/06/2018 11:34:26===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 4 -- 09/06/2018 11:34:28===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 4 -- 09/06/2018 11:34:28===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 4 -- 09/06/2018 11:34:28===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 4 -- 09/06/2018 11:34:28===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 09/06/2018 11:34:30===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 6 -- 09/06/2018 11:34:30===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 6 -- 09/06/2018 11:34:30===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 6 -- 09/06/2018 11:34:30===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 09/06/2018 11:34:32===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 8 -- 09/06/2018 11:34:32===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 8 -- 09/06/2018 11:34:32===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 09/06/2018 11:34:34===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 9 -- 09/06/2018 11:34:34===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 9 -- 09/06/2018 11:34:34===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 9 -- 09/06/2018 11:34:34===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 10 -- 09/06/2018 11:34:36===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 10 -- 09/06/2018 11:34:36===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 10 -- 09/06/2018 11:34:36===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 10 -- 09/06/2018 11:34:36===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 11 -- 09/06/2018 11:34:38===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 11 -- 09/06/2018 11:34:38===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 13 -- 09/06/2018 11:34:40===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 13 -- 09/06/2018 11:34:40===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 13 -- 09/06/2018 11:34:40===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 13 -- 09/06/2018 11:34:40===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 16 -- 09/06/2018 11:34:42===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 16 -- 09/06/2018 11:34:42===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 19 -- 09/06/2018 11:34:44===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 19 -- 09/06/2018 11:34:44===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 21 -- 09/06/2018 11:34:46===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 21 -- 09/06/2018 11:34:46===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 21 -- 09/06/2018 11:34:46===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 21 -- 09/06/2018 11:34:46===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 25 -- 09/06/2018 11:34:47===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 25 -- 09/06/2018 11:34:47===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 25 -- 09/06/2018 11:34:48===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 25 -- 09/06/2018 11:34:48===DR TIM PRE 17.01.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 09/06/2018 11:41:19===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 09/06/2018 11:41:19===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 09/06/2018 11:41:19===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 09/06/2018 11:41:19===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 09/06/2018 11:41:21===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 2 -- 09/06/2018 11:41:21===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 2 -- 09/06/2018 11:41:21===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 09/06/2018 11:41:23===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 5 -- 09/06/2018 11:41:23===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 5 -- 09/06/2018 11:41:23===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 5 -- 09/06/2018 11:41:23===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 09/06/2018 11:41:25===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 7 -- 09/06/2018 11:41:25===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 7 -- 09/06/2018 11:41:25===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 7 -- 09/06/2018 11:41:25===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 09/06/2018 11:41:27===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 9 -- 09/06/2018 11:41:27===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 9 -- 09/06/2018 11:41:27===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 9 -- 09/06/2018 11:41:27===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 12 -- 09/06/2018 11:41:29===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 12 -- 09/06/2018 11:41:29===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 12 -- 09/06/2018 11:41:29===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 15 -- 09/06/2018 11:41:31===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 15 -- 09/06/2018 11:41:31===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 15 -- 09/06/2018 11:41:31===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 15 -- 09/06/2018 11:41:31===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 18 -- 09/06/2018 11:41:33===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 18 -- 09/06/2018 11:41:33===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 18 -- 09/06/2018 11:41:33===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 18 -- 09/06/2018 11:41:33===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 20 -- 09/06/2018 11:41:35===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 20 -- 09/06/2018 11:41:35===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 20 -- 09/06/2018 11:41:35===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 20 -- 09/06/2018 11:41:35===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 23 -- 09/06/2018 11:41:37===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 23 -- 09/06/2018 11:41:37===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 23 -- 09/06/2018 11:41:37===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 25 -- 09/06/2018 11:41:39===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 25 -- 09/06/2018 11:41:39===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 25 -- 09/06/2018 11:41:39===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 25 -- 09/06/2018 11:41:39===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 27 -- 09/06/2018 11:41:41===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 27 -- 09/06/2018 11:41:41===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 27 -- 09/06/2018 11:41:41===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 27 -- 09/06/2018 11:41:41===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 30 -- 09/06/2018 11:41:43===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 30 -- 09/06/2018 11:41:43===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 30 -- 09/06/2018 11:41:43===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 30 -- 09/06/2018 11:41:43===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 32 -- 09/06/2018 11:41:45===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 32 -- 09/06/2018 11:41:45===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 32 -- 09/06/2018 11:41:45===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 32 -- 09/06/2018 11:41:45===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 35 -- 09/06/2018 11:41:47===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 35 -- 09/06/2018 11:41:48===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 35 -- 09/06/2018 11:41:48===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 35 -- 09/06/2018 11:41:48===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 37 -- 09/06/2018 11:41:49===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 37 -- 09/06/2018 11:41:49===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 37 -- 09/06/2018 11:41:49===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 37 -- 09/06/2018 11:41:49===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 40 -- 09/06/2018 11:41:51===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 40 -- 09/06/2018 11:41:51===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 40 -- 09/06/2018 11:41:51===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 40 -- 09/06/2018 11:41:51===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 43 -- 09/06/2018 11:41:53===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 43 -- 09/06/2018 11:41:53===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 43 -- 09/06/2018 11:41:53===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 46 -- 09/06/2018 11:41:55===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 49 -- 09/06/2018 11:41:57===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 49 -- 09/06/2018 11:41:57===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 49 -- 09/06/2018 11:41:57===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 49 -- 09/06/2018 11:41:57===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 51 -- 09/06/2018 11:41:59===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 51 -- 09/06/2018 11:41:59===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 51 -- 09/06/2018 11:41:59===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 51 -- 09/06/2018 11:41:59===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 52 -- 09/06/2018 11:42:01===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 52 -- 09/06/2018 11:42:01===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 52 -- 09/06/2018 11:42:01===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 52 -- 09/06/2018 11:42:01===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 54 -- 09/06/2018 11:42:03===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 54 -- 09/06/2018 11:42:03===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 60 -- 09/06/2018 11:42:05===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 60 -- 09/06/2018 11:42:05===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 60 -- 09/06/2018 11:42:05===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 60 -- 09/06/2018 11:42:05===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 64 -- 09/06/2018 11:42:07===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 64 -- 09/06/2018 11:42:07===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 64 -- 09/06/2018 11:42:07===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 64 -- 09/06/2018 11:42:07===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 66 -- 09/06/2018 11:42:09===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 66 -- 09/06/2018 11:42:09===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 66 -- 09/06/2018 11:42:09===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 66 -- 09/06/2018 11:42:09===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 69 -- 09/06/2018 11:42:11===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 69 -- 09/06/2018 11:42:11===DR TIM PRE 17.02.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 09/06/2018 11:42:36===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 09/06/2018 11:42:36===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 09/06/2018 11:42:36===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 3 -- 09/06/2018 11:42:38===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 3 -- 09/06/2018 11:42:38===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 3 -- 09/06/2018 11:42:38===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 3 -- 09/06/2018 11:42:38===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 09/06/2018 11:42:40===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 6 -- 09/06/2018 11:42:40===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 6 -- 09/06/2018 11:42:40===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 6 -- 09/06/2018 11:42:40===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 09/06/2018 11:42:42===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 9 -- 09/06/2018 11:42:42===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 9 -- 09/06/2018 11:42:42===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 9 -- 09/06/2018 11:42:42===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 11 -- 09/06/2018 11:42:44===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 11 -- 09/06/2018 11:42:44===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 11 -- 09/06/2018 11:42:44===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 11 -- 09/06/2018 11:42:44===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 14 -- 09/06/2018 11:42:46===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 14 -- 09/06/2018 11:42:46===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 14 -- 09/06/2018 11:42:46===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 14 -- 09/06/2018 11:42:46===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 17 -- 09/06/2018 11:42:48===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 17 -- 09/06/2018 11:42:48===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 17 -- 09/06/2018 11:42:48===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 17 -- 09/06/2018 11:42:48===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 20 -- 09/06/2018 11:42:49===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 20 -- 09/06/2018 11:42:49===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 20 -- 09/06/2018 11:42:49===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 20 -- 09/06/2018 11:42:49===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 23 -- 09/06/2018 11:42:51===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 23 -- 09/06/2018 11:42:51===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 23 -- 09/06/2018 11:42:51===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 23 -- 09/06/2018 11:42:51===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 26 -- 09/06/2018 11:42:53===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 26 -- 09/06/2018 11:42:53===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 26 -- 09/06/2018 11:42:53===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 26 -- 09/06/2018 11:42:53===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 29 -- 09/06/2018 11:42:55===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 29 -- 09/06/2018 11:42:55===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 29 -- 09/06/2018 11:42:55===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 29 -- 09/06/2018 11:42:55===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 32 -- 09/06/2018 11:42:57===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 32 -- 09/06/2018 11:42:57===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 32 -- 09/06/2018 11:42:57===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 32 -- 09/06/2018 11:42:57===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 35 -- 09/06/2018 11:42:59===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 35 -- 09/06/2018 11:42:59===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 35 -- 09/06/2018 11:42:59===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 35 -- 09/06/2018 11:42:59===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 38 -- 09/06/2018 11:43:01===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 38 -- 09/06/2018 11:43:01===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 38 -- 09/06/2018 11:43:01===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 38 -- 09/06/2018 11:43:01===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 41 -- 09/06/2018 11:43:03===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 41 -- 09/06/2018 11:43:03===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 41 -- 09/06/2018 11:43:03===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 41 -- 09/06/2018 11:43:03===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 43 -- 09/06/2018 11:43:05===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 43 -- 09/06/2018 11:43:05===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 43 -- 09/06/2018 11:43:05===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 43 -- 09/06/2018 11:43:05===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 46 -- 09/06/2018 11:43:07===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 46 -- 09/06/2018 11:43:07===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 46 -- 09/06/2018 11:43:07===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 46 -- 09/06/2018 11:43:07===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 48 -- 09/06/2018 11:43:09===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 48 -- 09/06/2018 11:43:09===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 48 -- 09/06/2018 11:43:09===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 48 -- 09/06/2018 11:43:09===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 52 -- 09/06/2018 11:43:11===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 52 -- 09/06/2018 11:43:11===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 55 -- 09/06/2018 11:43:13===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 55 -- 09/06/2018 11:43:13===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 55 -- 09/06/2018 11:43:13===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 55 -- 09/06/2018 11:43:13===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 58 -- 09/06/2018 11:43:15===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 58 -- 09/06/2018 11:43:15===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 58 -- 09/06/2018 11:43:15===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 58 -- 09/06/2018 11:43:15===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 61 -- 09/06/2018 11:43:17===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 61 -- 09/06/2018 11:43:17===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 61 -- 09/06/2018 11:43:17===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 61 -- 09/06/2018 11:43:17===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 63 -- 09/06/2018 11:43:19===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 63 -- 09/06/2018 11:43:19===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 68 -- 09/06/2018 11:43:21===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 68 -- 09/06/2018 11:43:21===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 68 -- 09/06/2018 11:43:21===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 68 -- 09/06/2018 11:43:21===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 72 -- 09/06/2018 11:43:23===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 72 -- 09/06/2018 11:43:23===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 72 -- 09/06/2018 11:43:23===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 72 -- 09/06/2018 11:43:23===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 74 -- 09/06/2018 11:43:24===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 74 -- 09/06/2018 11:43:24===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 74 -- 09/06/2018 11:43:24===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 77 -- 09/06/2018 11:43:26===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 77 -- 09/06/2018 11:43:26===DR TIM PRE 17.03.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 09/06/2018 11:44:16===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 09/06/2018 11:44:16===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 09/06/2018 11:44:16===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 09/06/2018 11:44:16===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 09/06/2018 11:44:18===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 2 -- 09/06/2018 11:44:18===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 2 -- 09/06/2018 11:44:18===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 4 -- 09/06/2018 11:44:19===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 4 -- 09/06/2018 11:44:19===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 4 -- 09/06/2018 11:44:20===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 09/06/2018 11:44:21===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 7 -- 09/06/2018 11:44:21===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 7 -- 09/06/2018 11:44:21===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 7 -- 09/06/2018 11:44:21===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 09/06/2018 11:44:23===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 9 -- 09/06/2018 11:44:23===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 9 -- 09/06/2018 11:44:23===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 9 -- 09/06/2018 11:44:23===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 12 -- 09/06/2018 11:44:25===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 12 -- 09/06/2018 11:44:25===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 12 -- 09/06/2018 11:44:25===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 15 -- 09/06/2018 11:44:27===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 15 -- 09/06/2018 11:44:27===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 15 -- 09/06/2018 11:44:27===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 18 -- 09/06/2018 11:44:29===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 18 -- 09/06/2018 11:44:29===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 18 -- 09/06/2018 11:44:29===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 18 -- 09/06/2018 11:44:29===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 19 -- 09/06/2018 11:44:31===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 19 -- 09/06/2018 11:44:31===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 19 -- 09/06/2018 11:44:31===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 19 -- 09/06/2018 11:44:31===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 22 -- 09/06/2018 11:44:33===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 22 -- 09/06/2018 11:44:33===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 22 -- 09/06/2018 11:44:33===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 22 -- 09/06/2018 11:44:33===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 25 -- 09/06/2018 11:44:35===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 25 -- 09/06/2018 11:44:35===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 25 -- 09/06/2018 11:44:35===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 25 -- 09/06/2018 11:44:35===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 28 -- 09/06/2018 11:44:37===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 28 -- 09/06/2018 11:44:37===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 28 -- 09/06/2018 11:44:37===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 28 -- 09/06/2018 11:44:37===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 31 -- 09/06/2018 11:44:39===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 31 -- 09/06/2018 11:44:39===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 31 -- 09/06/2018 11:44:39===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 31 -- 09/06/2018 11:44:39===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 34 -- 09/06/2018 11:44:41===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 34 -- 09/06/2018 11:44:41===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 34 -- 09/06/2018 11:44:41===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 37 -- 09/06/2018 11:44:43===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 37 -- 09/06/2018 11:44:43===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 37 -- 09/06/2018 11:44:43===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 40 -- 09/06/2018 11:44:45===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 40 -- 09/06/2018 11:44:45===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 40 -- 09/06/2018 11:44:45===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 43 -- 09/06/2018 11:44:47===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 43 -- 09/06/2018 11:44:47===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 43 -- 09/06/2018 11:44:47===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 43 -- 09/06/2018 11:44:47===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 46 -- 09/06/2018 11:44:49===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 46 -- 09/06/2018 11:44:49===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 46 -- 09/06/2018 11:44:49===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 46 -- 09/06/2018 11:44:49===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 50 -- 09/06/2018 11:44:50===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 50 -- 09/06/2018 11:44:50===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 53 -- 09/06/2018 11:44:52===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 53 -- 09/06/2018 11:44:52===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 53 -- 09/06/2018 11:44:52===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 53 -- 09/06/2018 11:44:52===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 56 -- 09/06/2018 11:44:54===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 56 -- 09/06/2018 11:44:54===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 56 -- 09/06/2018 11:44:54===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 58 -- 09/06/2018 11:44:56===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 58 -- 09/06/2018 11:44:56===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 58 -- 09/06/2018 11:44:56===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 60 -- 09/06/2018 11:44:58===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 67 -- 09/06/2018 11:45:00===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 67 -- 09/06/2018 11:45:00===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 67 -- 09/06/2018 11:45:00===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 67 -- 09/06/2018 11:45:00===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 71 -- 09/06/2018 11:45:02===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 71 -- 09/06/2018 11:45:02===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 71 -- 09/06/2018 11:45:02===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 73 -- 09/06/2018 11:45:04===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 73 -- 09/06/2018 11:45:04===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 73 -- 09/06/2018 11:45:04===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 73 -- 09/06/2018 11:45:04===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 76 -- 09/06/2018 11:45:06===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 76 -- 09/06/2018 11:45:06===DR TIM PRE 17.04.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 09/06/2018 11:45:19===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 09/06/2018 11:45:19===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 1 -- 09/06/2018 11:45:19===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 1 -- 09/06/2018 11:45:19===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 1 -- 09/06/2018 11:45:19===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 09/06/2018 11:45:19===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 09/06/2018 11:45:21===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 2 -- 09/06/2018 11:45:21===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 2 -- 09/06/2018 11:45:21===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 4 -- 09/06/2018 11:45:23===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 4 -- 09/06/2018 11:45:23===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 4 -- 09/06/2018 11:45:23===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 09/06/2018 11:45:25===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 09/06/2018 11:45:27===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 7 -- 09/06/2018 11:45:27===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 7 -- 09/06/2018 11:45:27===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 12 -- 09/06/2018 11:45:31===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 14 -- 09/06/2018 11:45:33===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 14 -- 09/06/2018 11:45:33===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 14 -- 09/06/2018 11:45:33===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 14 -- 09/06/2018 11:45:33===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 14 -- 09/06/2018 11:45:33===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 14 -- 09/06/2018 11:45:33===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 16 -- 09/06/2018 11:45:35===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 16 -- 09/06/2018 11:45:35===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 16 -- 09/06/2018 11:45:35===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 16 -- 09/06/2018 11:45:35===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 19 -- 09/06/2018 11:45:37===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 19 -- 09/06/2018 11:45:37===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 19 -- 09/06/2018 11:45:37===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 19 -- 09/06/2018 11:45:37===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 21 -- 09/06/2018 11:45:39===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 21 -- 09/06/2018 11:45:39===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 21 -- 09/06/2018 11:45:39===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 23 -- 09/06/2018 11:45:40===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 23 -- 09/06/2018 11:45:40===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 23 -- 09/06/2018 11:45:40===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 23 -- 09/06/2018 11:45:41===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 26 -- 09/06/2018 11:45:42===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 26 -- 09/06/2018 11:45:43===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 26 -- 09/06/2018 11:45:43===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 26 -- 09/06/2018 11:45:43===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 28 -- 09/06/2018 11:45:44===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 28 -- 09/06/2018 11:45:44===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 30 -- 09/06/2018 11:45:46===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 30 -- 09/06/2018 11:45:46===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 32 -- 09/06/2018 11:45:48===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 32 -- 09/06/2018 11:45:48===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 32 -- 09/06/2018 11:45:48===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 32 -- 09/06/2018 11:45:48===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 34 -- 09/06/2018 11:45:50===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 34 -- 09/06/2018 11:45:50===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 36 -- 09/06/2018 11:45:52===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 36 -- 09/06/2018 11:45:52===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 36 -- 09/06/2018 11:45:52===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 39 -- 09/06/2018 11:45:54===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 39 -- 09/06/2018 11:45:54===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 42 -- 09/06/2018 11:45:56===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 42 -- 09/06/2018 11:45:56===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 42 -- 09/06/2018 11:45:56===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 44 -- 09/06/2018 11:45:58===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 44 -- 09/06/2018 11:45:58===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 44 -- 09/06/2018 11:45:58===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 44 -- 09/06/2018 11:45:58===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 46 -- 09/06/2018 11:46:00===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 46 -- 09/06/2018 11:46:00===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 47 -- 09/06/2018 11:46:02===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 51 -- 09/06/2018 11:46:04===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 51 -- 09/06/2018 11:46:04===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 51 -- 09/06/2018 11:46:04===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 51 -- 09/06/2018 11:46:04===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 51 -- 09/06/2018 11:46:04===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 51 -- 09/06/2018 11:46:04===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 54 -- 09/06/2018 11:46:06===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 56 -- 09/06/2018 11:46:08===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 56 -- 09/06/2018 11:46:08===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 56 -- 09/06/2018 11:46:08===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 56 -- 09/06/2018 11:46:08===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 58 -- 09/06/2018 11:46:09===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 58 -- 09/06/2018 11:46:09===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor total para os impostos não corresponde a soma de PIS,COFINS e ISS, linha= 58 -- 09/06/2018 11:46:09===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor serviço bruto não corresponde a prest.serv.vl.liquido + PIS + COFINS + ISS, linha= 58 -- 09/06/2018 11:46:09===DR TIM PRE 17.05.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 09/06/2018 11:46:17===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 09/06/2018 11:46:23===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 09/06/2018 11:46:25===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 13 -- 09/06/2018 11:46:29===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 15 -- 09/06/2018 11:46:31===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 17 -- 09/06/2018 11:46:33===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 18 -- 09/06/2018 11:46:35===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 20 -- 09/06/2018 11:46:36===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 22 -- 09/06/2018 11:46:38===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 24 -- 09/06/2018 11:46:40===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 32 -- 09/06/2018 11:46:48===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 34 -- 09/06/2018 11:46:50===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 36 -- 09/06/2018 11:46:52===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 38 -- 09/06/2018 11:46:54===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 40 -- 09/06/2018 11:46:58===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 41 -- 09/06/2018 11:47:00===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 45 -- 09/06/2018 11:47:02===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 49 -- 09/06/2018 11:47:06===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 51 -- 09/06/2018 11:47:08===DR TIM PRE 17.06.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 09/06/2018 11:47:14===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 1 -- 09/06/2018 11:47:14===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 1 -- 09/06/2018 11:47:14===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 1 -- 09/06/2018 11:47:14===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 2 -- 09/06/2018 11:47:16===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 2 -- 09/06/2018 11:47:16===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 4 -- 09/06/2018 11:47:18===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 4 -- 09/06/2018 11:47:18===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 4 -- 09/06/2018 11:47:18===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 4 -- 09/06/2018 11:47:18===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 09/06/2018 11:47:20===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 5 -- 09/06/2018 11:47:20===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 5 -- 09/06/2018 11:47:20===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 5 -- 09/06/2018 11:47:20===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 6 -- 09/06/2018 11:47:22===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 6 -- 09/06/2018 11:47:22===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 6 -- 09/06/2018 11:47:22===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 6 -- 09/06/2018 11:47:22===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 8 -- 09/06/2018 11:47:24===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 8 -- 09/06/2018 11:47:24===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 8 -- 09/06/2018 11:47:24===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 10 -- 09/06/2018 11:47:26===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 10 -- 09/06/2018 11:47:26===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 10 -- 09/06/2018 11:47:26===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 10 -- 09/06/2018 11:47:26===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 12 -- 09/06/2018 11:47:28===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 12 -- 09/06/2018 11:47:28===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 12 -- 09/06/2018 11:47:28===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 12 -- 09/06/2018 11:47:28===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 14 -- 09/06/2018 11:47:29===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 14 -- 09/06/2018 11:47:29===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 14 -- 09/06/2018 11:47:29===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 14 -- 09/06/2018 11:47:29===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 16 -- 09/06/2018 11:47:31===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 16 -- 09/06/2018 11:47:31===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 16 -- 09/06/2018 11:47:31===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 16 -- 09/06/2018 11:47:31===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 18 -- 09/06/2018 11:47:33===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 18 -- 09/06/2018 11:47:33===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 18 -- 09/06/2018 11:47:33===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 18 -- 09/06/2018 11:47:33===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 20 -- 09/06/2018 11:47:35===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 20 -- 09/06/2018 11:47:35===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 20 -- 09/06/2018 11:47:35===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 20 -- 09/06/2018 11:47:35===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 22 -- 09/06/2018 11:47:37===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 22 -- 09/06/2018 11:47:37===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 22 -- 09/06/2018 11:47:37===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 22 -- 09/06/2018 11:47:37===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 24 -- 09/06/2018 11:47:39===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 24 -- 09/06/2018 11:47:39===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 24 -- 09/06/2018 11:47:39===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 26 -- 09/06/2018 11:47:41===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 26 -- 09/06/2018 11:47:41===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 26 -- 09/06/2018 11:47:41===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 28 -- 09/06/2018 11:47:43===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 28 -- 09/06/2018 11:47:43===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 28 -- 09/06/2018 11:47:43===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 30 -- 09/06/2018 11:47:45===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 30 -- 09/06/2018 11:47:45===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 33 -- 09/06/2018 11:47:47===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 33 -- 09/06/2018 11:47:47===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 33 -- 09/06/2018 11:47:47===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 33 -- 09/06/2018 11:47:47===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 35 -- 09/06/2018 11:47:49===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 35 -- 09/06/2018 11:47:49===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 35 -- 09/06/2018 11:47:49===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 37 -- 09/06/2018 11:47:51===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 37 -- 09/06/2018 11:47:51===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 37 -- 09/06/2018 11:47:51===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 39 -- 09/06/2018 11:47:52===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 39 -- 09/06/2018 11:47:52===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 39 -- 09/06/2018 11:47:52===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 41 -- 09/06/2018 11:47:54===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 41 -- 09/06/2018 11:47:54===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 41 -- 09/06/2018 11:47:54===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 41 -- 09/06/2018 11:47:54===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 42 -- 09/06/2018 11:47:56===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 42 -- 09/06/2018 11:47:56===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 46 -- 09/06/2018 11:47:58===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 46 -- 09/06/2018 11:47:58===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 46 -- 09/06/2018 11:47:58===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 46 -- 09/06/2018 11:47:58===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 48 -- 09/06/2018 11:48:00===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 48 -- 09/06/2018 11:48:00===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 48 -- 09/06/2018 11:48:00===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 48 -- 09/06/2018 11:48:00===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 49 -- 09/06/2018 11:48:02===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 49 -- 09/06/2018 11:48:02===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 49 -- 09/06/2018 11:48:02===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor BASE BRUTO DE REPASSE não corresponde a BRUTO - DEDUÇÃO DE ICMS, linha= 49 -- 09/06/2018 11:48:02===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 51 -- 09/06/2018 11:48:04===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor base bruto de repasse não corresponde a soma de líquido, ICMS e PIS/COFINS menos dedução de icms, linha= 51 -- 09/06/2018 11:48:04===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor a repassar não corresponde a base bruto de repasse - serviço bruto, linha= 51 -- 09/06/2018 11:48:04===DR TIM PRE 17.07.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 12/06/2018 15:33:18===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 12/06/2018 15:33:27===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 12/06/2018 15:33:32===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 12/06/2018 15:33:35===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 12/06/2018 15:33:38===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 12/06/2018 15:51:42===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 12/06/2018 15:51:52===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 12/06/2018 15:51:58===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 12/06/2018 15:52:02===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 12/06/2018 15:52:05===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 1 -- 12/06/2018 16:09:11===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 5 -- 12/06/2018 16:09:20===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 7 -- 12/06/2018 16:09:26===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 8 -- 12/06/2018 16:09:29===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+
+[TIM PRE] ERRO--> Valor bruto / min não corresponde a um valor entre 6 e 12, linha= 9 -- 12/06/2018 16:09:32===DRF_PRE_TIM_CAMBRIDGE_052018_V00.xlsx
+

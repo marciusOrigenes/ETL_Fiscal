@@ -1,0 +1,20 @@
+create table stg_pos_vivo_fixo(
+periodo varchar(100),
+tipo varchar(100),
+op varchar(100),
+filial varchar(100),
+chamadas_qtde varchar(100),
+prestacao_de_servico varchar(100),
+vl_contestado varchar(100),
+arrecadado varchar(100),
+juros_e_multa varchar(100),
+repasse varchar(100),
+iss_retencao varchar(100),
+repasse_final varchar(100),
+preco_cob varchar(100),
+aliq_impostos varchar(100),
+vl_liquido_arrecadado varchar(100),
+acertos varchar(100),
+penalidades varchar(100),
+tipo2 varchar(100)
+);

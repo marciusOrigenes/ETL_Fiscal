@@ -1,0 +1,21 @@
+create table stg_pre_vivo(
+periodo varchar(100),
+uf varchar(100),
+qtde_chamadas_total integer,
+qtde_minutos_total decimal(12,2),
+total_dos_creditos_utilizados decimal(12,2),
+creditos_utilizados_a_repassar decimal(12,2),
+destaque_icms_nfst decimal(12,2),	
+prestacao_servico decimal(12,2)),
+repasse decimal(12,2),
+iss_retencao decimal(12,2),
+repasse_final decimal(12,2),
+tarifa decimal(12,2),
+icms decimal(12,2),
+vl_icms decimal(12,2),
+vl_pis_cofins decimal(12,2)),
+vl_liquido_arrecadado decimal(12,2),
+ajuste_pre_fat decimal(12,2),
+ajuste_pos_fat decimal(12,2),
+tipo varchar(100)
+);

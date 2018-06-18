@@ -1,0 +1,8 @@
+claro - pos(2 movel, 1 fixo) * e pre(1)*
+oi - pos(1 movel, 2 fixo) e pre(1)*
+vivo - pos(1 movel, 1 fixo) * e pre(1)*
+tim - pos(1 movel)* e pre(1)*
+intelig - pos(1 fixo)* e pre(1)*
+
+10 - pos
+5 - pre

@@ -1,0 +1,22 @@
+create table pos_vivo_movel(
+periodo varchar(100),
+tipo varchar(100),
+op varchar(100),
+filial varchar(100),
+chamadas_qtde integer,
+prestacao_de_servico decimal(12,2),
+contestado decimal(12,2),
+reversao_de_pagamento decimal(12,2),
+arrecadado decimal(12,2),
+arrecadado_parcelado decimal(12,2),
+juros_e_multa decimal(12,2),	
+repasse decimal(12,2),
+iss_retencao decimal(12,2),
+repasse_final decimal(12,2),
+vl_bruto_arrecadado decimal(12,2),
+aliq_impostos decimal(12,2),
+vl_liquido_arrecadado decimal(12,2),
+acertos decimal(12,2),
+penalidades decimal(12,2),
+tipo2 varchar(100)
+);

@@ -1,0 +1,20 @@
+create table pos_claro_fixo(
+periodo varchar(100),
+tipo varchar(100),
+op varchar(100),
+filial varchar(100),
+liquido_arrecadado decimal(12,2),
+contestacao decimal(12,2),
+base_do_repasse decimal(12,2),
+icms decimal(12,2),
+pis_cofins decimal(12,2),
+qtde_cob decimal(12,2),
+cob decimal(12,2),
+bruto_arrecadado decimal(12,2),
+outras_taxas decimal(12,2),
+juros_e_multas decimal(12,2),
+repasse decimal(12,2),	
+acertos decimal(12,2),
+penalidades decimal(12,2),
+tipo2 varchar(100)
+);

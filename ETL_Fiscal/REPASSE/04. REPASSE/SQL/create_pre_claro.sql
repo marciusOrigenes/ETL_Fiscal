@@ -1,0 +1,22 @@
+create table pre_claro(
+periodo varchar(100),
+demonstrativo varchar(100),
+holding varchar(100),
+uf varchar(100),
+icms_aliq decimal(10,2),
+qtde_chamadas integer,
+minutos decimal(10,2),
+valor_liquido decimal(10,2),
+pis_cofins decimal(10,2),
+icms decimal(10,2),
+valor_bruto decimal(10,2),
+creditos_226 decimal(10,2),
+valor_nf decimal(10,2),
+prestacao_servico decimal(10,2),
+diferenca_icms decimal(10,2),
+repasse_final decimal(10,2),
+ajuste_pre_fat decimal(10,2),
+ajuste_pos_fat decimal(10,2),
+destaque_icms_nfst decimal(10,2),
+tipo varchar(100)
+);
